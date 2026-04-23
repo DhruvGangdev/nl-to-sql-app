@@ -1,0 +1,8 @@
+*.db
+*.sqlite
+*.sqlite3
+*.ipynb
+__pycache__/
+.env
+.venv/
+venv/
